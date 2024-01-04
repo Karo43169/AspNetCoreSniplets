@@ -1,2 +1,1 @@
-# AspNetCoreSniplets
- Code Snipplets for Asp net
+This repo contains various code sniplets from my learning asp net experience with azure web app hosting + identity. Made public, to possibly help other people. 
